@@ -1,0 +1,25 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¾ûşıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñê±â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªœÈ‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“ßÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÉ˜Êùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‚ÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÀÙ€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²ï´ùÿÿÿÿ
+f	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(±¯şùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ãªîÂıÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ö£–ƒøÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(‚ÚĞƒøÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(Æ££µ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ûÌõÙıÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(åóß•ùÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(¿™¿‘ÿÿÿÿÿ
+T
+java:S1197Y"8Move the array designator from the variable to the type.(ÏŞÃ?8¡Ïæô«/
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(õÂšÀøÿÿÿÿ
+X	java:S125["<This block of commented-out lines of code should be removed.(æâñ8’Úàô«/
+Y
+java:S1155:">Use isEmpty() to check whether the collection is empty or not.(§Û¸ûşÿÿÿÿ

@@ -1,0 +1,9 @@
+
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8³ÙÒ«/
+X
+java:S1128";Remove this unused import 'persistence.RepositoryMenuItem'.(ÌéÌŒ8³ÙÒ«/
+J
+java:S1128"(Remove this unused import 'util.DBUtil'.(±†¸ˆşÿÿÿÿ8³ÙÒ«/
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Œˆîÿÿÿÿÿ8³ÙÒ«/
