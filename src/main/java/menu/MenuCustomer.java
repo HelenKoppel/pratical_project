@@ -36,6 +36,7 @@ public class MenuCustomer {
                     break;
                 case 3:
                     menuListActiveCustomers();
+                    break;
                 case 4:
                     menuListActiveAndNotActiveCustomers();
                     break;
