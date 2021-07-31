@@ -23,12 +23,13 @@
 hs_err_pid*
 
 ### IntelliJ IDEA ###
+persistence.xml
 .idea
 *.idea
 *.iws
 *.iml
 *.ipr
-persistence.xml
+
 
 # Mac
 .DS_Store
