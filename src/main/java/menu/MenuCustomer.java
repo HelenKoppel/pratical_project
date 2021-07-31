@@ -19,6 +19,7 @@ public class MenuCustomer {
         System.out.println("4: List total active and not active customers");
         System.out.println("100 - Return to Main Menu");
         System.out.println("\n/***************************************************/");
+        System.out.println("\n/***************************************************/");
         return input.nextInt();
     }
 
